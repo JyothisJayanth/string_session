@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "userbutt"
+name = "StringSessionGenerator"
 version = "0.1.0"
-description = "Script for generating Telegram Session in telethon or pyrogram"
+description = "Script for generating Telegram Session in Telethon or Pyrogram"
 authors = ["Mr.Miss <keselekpermen69@gmail.com>"]
 
 [tool.poetry.dependencies]
